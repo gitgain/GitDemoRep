@@ -13,6 +13,10 @@ public class GitDemo {
 
 		
 		System.out.println("Udo and Erik were here!");
+		System.out.println("Udo and Erik were here!");
+		System.out.println("Kay, Sven und Deborah auch!");
+
+
 	}
 
 }
